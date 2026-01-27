@@ -93,7 +93,7 @@
 ---
 
 <p align="center">
-  <i>⭐️ From <a href="https://github.com/abiolahenrys">Henry-Abiola Samuel</a> | Open to SOC Analyst, Penetration Tester, System Administrator & IT Security opportunities in Finland</i>
+  ⭐️ From <a href="https://github.com/abiolahenrys">Henry-Abiola Samuel</a>
 </p>
 
 <!-- Proudly crafted with passion for cybersecurity and systems administration -->
