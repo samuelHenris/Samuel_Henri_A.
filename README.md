@@ -1,7 +1,7 @@
 ### 👨‍💻 About Me
 ```bash
 > whoami
-   Henry-Abiola Samuel — breaking things (with permission) since 2020
+   Henry-Abiola Samuel — finding the cracks before someone else does
 > cat interests.txt
    Penetration Testing | Security Engineering | 5G Research
 > cat status.txt
