@@ -55,34 +55,14 @@
 
 ---
 
-## 🔒 Key Projects & Experience
+## 🔒 Highlights
 
-### 🔓 Penetration Testing
-- **[!] Real OWASP A01 Finding** — Discovered Broken Access Control vulnerability during authorized pentest of a production Oracle APEX application. Documented with full CVSS scoring and remediation report.
-- **Network Pentesting** — Nmap, Metasploit, Aircrack-ng (WiFi security assessments), vulnerability scanning
-- **Web App Testing** — OWASP Top 10, Burp Suite, SQLMap, Gobuster
-- **Password Cracking & Enumeration** — John the Ripper, Hashcat, Hydra, Enum4Linux
-- **Post-Exploitation** — Mimikatz, credential extraction, privilege escalation
-
-### 📡 MSc Thesis — 5G Network Security Research *(In Progress)*
-- Pentesting-based anomaly detection on 5G infrastructure using Raspberry Pi/Arduino
-- Focus: real-world threat modeling, traffic analysis, network-layer attack detection
-- Supervised research @ Aalto University | Expected: June 2026
-
-### 🛡️ SOC & Incident Response
-- **SIEM Home Lab** — Splunk, Wazuh, and Elastic Stack for log analysis and threat detection
-- **Phishing Detection & Analysis** — Identifying and analyzing phishing campaigns and malicious emails
-- **Security Monitoring** — Real-time threat detection, log correlation, security event analysis
-
-### 🦠 Malware Analysis
-- **Static & Dynamic Analysis** — Reverse engineering malicious binaries, behavioral analysis
-- **Threat Intelligence** — VirusTotal, YARA rules, OSINT tooling
-
-### 💼 System Administration
-- **Microsoft 365** — User management, Exchange Online, SharePoint, security policies
-- **Azure Infrastructure** — VM management, network config, cloud security (99.5% uptime)
-- **Oracle APEX Development** — Custom SaaS apps, drill-down dashboards, multi-language support
-- **Active Directory** — Group Policy, user provisioning, access control
+| | |
+|---|---|
+| **[!] OWASP A01** | Broken Access Control found in production Oracle APEX app — CVSS scored, authorized, documented |
+| **📡 MSc Thesis** | 5G network security & pentesting-based anomaly detection — Raspberry Pi/Arduino @ Aalto University |
+| **🛡️ SIEM Home Lab** | Splunk + Wazuh + Elastic Stack — log analysis, threat detection, incident response |
+| **🦠 Malware Analysis** | Static & dynamic analysis, YARA rules, VirusTotal, REMnux |
 
 ---
 
@@ -105,19 +85,6 @@
 
 ### Databases & Development
 ![SQL](https://img.shields.io/badge/SQL-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white) ![Oracle APEX](https://img.shields.io/badge/Oracle%20APEX-F80000?style=for-the-badge&logo=oracle&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=abiolahenrys&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00FF41&icon_color=00FF41&text_color=ffffff" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abiolahenrys&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00FF41&text_color=ffffff" height="165" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abiolahenrys&theme=chartreuse-dark&hide_border=true&background=0d1117&ring=00FF41&fire=00FF41&currStreakLabel=00FF41" />
-</p>
 
 ---
 
