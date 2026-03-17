@@ -1,10 +1,124 @@
-### 👨‍💻 About Me
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00FF41&center=true&vCenter=true&width=600&lines=Henry-Abiola+Samuel;finding+the+cracks+before+someone+else+does." alt="Typing SVG" />
+</h1>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=abiolahenrys&label=Profile+views&color=00ff41&style=flat" alt="abiolahenrys" />
+  <img src="https://img.shields.io/badge/Status-Open%20to%20Work-00FF41?style=flat&logo=circle&logoColor=white" />
+  <img src="https://img.shields.io/badge/Location-Helsinki%2C%20Finland-0078D4?style=flat&logo=googlemaps&logoColor=white" />
+</p>
+
+---
+
 ```bash
-> whoami
-   Henry-Abiola Samuel — finding the cracks before someone else does
-> cat interests.txt
+┌──(henry㉿kali)-[~]
+└─$ whoami
+
+   Henry-Abiola Samuel — finding the cracks before someone else does.
+
+┌──(henry㉿kali)-[~]
+└─$ cat interests.txt
+
    Penetration Testing | Security Engineering | 5G Research
-> cat status.txt
-   MSc @ Aalto University | Based in Helsinki | Open to work
-> _
+
+┌──(henry㉿kali)-[~]
+└─$ cat status.txt
+
+   MSc Communications & Data Science @ Aalto University
+   Based in Helsinki | Open to work → linkedin.com/in/samuel-henry-abiola-8951501a1
+
+┌──(henry㉿kali)-[~]
+└─$ cat highlight.txt
+
+   [!] Real OWASP A01 Broken Access Control found in production Oracle APEX app
+       CVSS scored | Authorized | Documented | Reported
+
+┌──(henry㉿kali)-[~]
+└─$ _
 ```
+
+---
+
+## 🌐 Connect
+
+<p align="left">
+  <a href="https://linkedin.com/in/samuel-henry-abiola-8951501a1">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:abiolahenrys@icloud.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://tryhackme.com/p/abiolahenrys">
+    <img src="https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white" />
+  </a>
+</p>
+
+---
+
+## 🔒 Key Projects & Experience
+
+### 🔓 Penetration Testing
+- **[!] Real OWASP A01 Finding** — Discovered Broken Access Control vulnerability during authorized pentest of a production Oracle APEX application. Documented with full CVSS scoring and remediation report.
+- **Network Pentesting** — Nmap, Metasploit, Aircrack-ng (WiFi security assessments), vulnerability scanning
+- **Web App Testing** — OWASP Top 10, Burp Suite, SQLMap, Gobuster
+- **Password Cracking & Enumeration** — John the Ripper, Hashcat, Hydra, Enum4Linux
+- **Post-Exploitation** — Mimikatz, credential extraction, privilege escalation
+
+### 📡 MSc Thesis — 5G Network Security Research *(In Progress)*
+- Pentesting-based anomaly detection on 5G infrastructure using Raspberry Pi/Arduino
+- Focus: real-world threat modeling, traffic analysis, network-layer attack detection
+- Supervised research @ Aalto University | Expected: June 2026
+
+### 🛡️ SOC & Incident Response
+- **SIEM Home Lab** — Splunk, Wazuh, and Elastic Stack for log analysis and threat detection
+- **Phishing Detection & Analysis** — Identifying and analyzing phishing campaigns and malicious emails
+- **Security Monitoring** — Real-time threat detection, log correlation, security event analysis
+
+### 🦠 Malware Analysis
+- **Static & Dynamic Analysis** — Reverse engineering malicious binaries, behavioral analysis
+- **Threat Intelligence** — VirusTotal, YARA rules, OSINT tooling
+
+### 💼 System Administration
+- **Microsoft 365** — User management, Exchange Online, SharePoint, security policies
+- **Azure Infrastructure** — VM management, network config, cloud security (99.5% uptime)
+- **Oracle APEX Development** — Custom SaaS apps, drill-down dashboards, multi-language support
+- **Active Directory** — Group Policy, user provisioning, access control
+
+---
+
+## 💻 Tech Stack
+
+### Penetration Testing & Security Tools
+![Kali Linux](https://img.shields.io/badge/Kali%20Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white) ![Metasploit](https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge&logo=metasploit&logoColor=white) ![Burp Suite](https://img.shields.io/badge/Burp%20Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white) ![Nmap](https://img.shields.io/badge/Nmap-0E83CD?style=for-the-badge&logo=nmap&logoColor=white) ![OWASP](https://img.shields.io/badge/OWASP-000000?style=for-the-badge&logo=owasp&logoColor=white) ![Aircrack-ng](https://img.shields.io/badge/Aircrack--ng-FF6B35?style=for-the-badge&logo=security&logoColor=white) ![John the Ripper](https://img.shields.io/badge/John%20the%20Ripper-8B0000?style=for-the-badge&logo=security&logoColor=white) ![Hashcat](https://img.shields.io/badge/Hashcat-FF6B35?style=for-the-badge&logo=security&logoColor=white) ![Hydra](https://img.shields.io/badge/Hydra-00599C?style=for-the-badge&logo=security&logoColor=white) ![Nikto](https://img.shields.io/badge/Nikto-FF6347?style=for-the-badge&logo=security&logoColor=white) ![Netcat](https://img.shields.io/badge/Netcat-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white) ![Gobuster](https://img.shields.io/badge/Gobuster-00ADD8?style=for-the-badge&logo=go&logoColor=white) ![SQLMap](https://img.shields.io/badge/SQLMap-CC2927?style=for-the-badge&logo=sqlite&logoColor=white) ![Mimikatz](https://img.shields.io/badge/Mimikatz-0078D4?style=for-the-badge&logo=windows&logoColor=white)
+
+### SIEM & Security Monitoring
+![Splunk](https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk&logoColor=white) ![Elastic](https://img.shields.io/badge/Elastic-005571?style=for-the-badge&logo=elastic&logoColor=white) ![Wazuh](https://img.shields.io/badge/Wazuh-005571?style=for-the-badge&logo=wazuh&logoColor=white) ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
+
+### Malware Analysis & Incident Response
+![VirusTotal](https://img.shields.io/badge/VirusTotal-394EFF?style=for-the-badge&logo=virustotal&logoColor=white) ![REMnux](https://img.shields.io/badge/REMnux-FF6B35?style=for-the-badge&logo=linux&logoColor=white) ![YARA](https://img.shields.io/badge/YARA-001F3F?style=for-the-badge&logo=security&logoColor=white)
+
+### System Administration & Infrastructure
+![Windows Server](https://img.shields.io/badge/Windows%20Server-0078D6?style=for-the-badge&logo=windows&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![Microsoft 365](https://img.shields.io/badge/Microsoft_365-0078D4?style=for-the-badge&logo=microsoft&logoColor=white) ![Active Directory](https://img.shields.io/badge/Active%20Directory-0078D4?style=for-the-badge&logo=microsoft&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![VirtualBox](https://img.shields.io/badge/VirtualBox-183A61?style=for-the-badge&logo=virtualbox&logoColor=white)
+
+### Programming & Scripting
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![Bash](https://img.shields.io/badge/bash-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+
+### Databases & Development
+![SQL](https://img.shields.io/badge/SQL-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white) ![Oracle APEX](https://img.shields.io/badge/Oracle%20APEX-F80000?style=for-the-badge&logo=oracle&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=abiolahenrys&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00FF41&icon_color=00FF41&text_color=ffffff" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abiolahenrys&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00FF41&text_color=ffffff" height="165" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abiolahenrys&theme=chartreuse-dark&hide_border=true&background=0d1117&ring=00FF41&fire=00FF41&currStreakLabel=00FF41" />
+</p>
+
+---
+
+<!-- Authorized. Documented. Reported. -->
