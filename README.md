@@ -55,7 +55,7 @@
 
 ---
 
-## 🔒 Highlights
+## Highlights
 
 | | |
 |---|---|
@@ -66,7 +66,7 @@
 
 ---
 
-## 💻 Tech Stack
+## Tech Stack
 
 ### Penetration Testing & Security Tools
 ![Kali Linux](https://img.shields.io/badge/Kali%20Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white) ![Metasploit](https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge&logo=metasploit&logoColor=white) ![Burp Suite](https://img.shields.io/badge/Burp%20Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white) ![Nmap](https://img.shields.io/badge/Nmap-0E83CD?style=for-the-badge&logo=nmap&logoColor=white) ![OWASP](https://img.shields.io/badge/OWASP-000000?style=for-the-badge&logo=owasp&logoColor=white) ![Aircrack-ng](https://img.shields.io/badge/Aircrack--ng-FF6B35?style=for-the-badge&logo=security&logoColor=white) ![John the Ripper](https://img.shields.io/badge/John%20the%20Ripper-8B0000?style=for-the-badge&logo=security&logoColor=white) ![Hashcat](https://img.shields.io/badge/Hashcat-FF6B35?style=for-the-badge&logo=security&logoColor=white) ![Hydra](https://img.shields.io/badge/Hydra-00599C?style=for-the-badge&logo=security&logoColor=white) ![Nikto](https://img.shields.io/badge/Nikto-FF6347?style=for-the-badge&logo=security&logoColor=white) ![Netcat](https://img.shields.io/badge/Netcat-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white) ![Gobuster](https://img.shields.io/badge/Gobuster-00ADD8?style=for-the-badge&logo=go&logoColor=white) ![SQLMap](https://img.shields.io/badge/SQLMap-CC2927?style=for-the-badge&logo=sqlite&logoColor=white) ![Mimikatz](https://img.shields.io/badge/Mimikatz-0078D4?style=for-the-badge&logo=windows&logoColor=white)
