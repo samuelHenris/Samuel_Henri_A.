@@ -19,7 +19,7 @@
 ┌──(henry㉿kali)-[~]
 └─$ cat interests.txt
 
-   Penetration Testing | Security Engineering | 5G Research
+   Penetration Testing | Security Engineering | 5G Research | Software Development
 
 ┌──(henry㉿kali)-[~]
 └─$ cat status.txt
