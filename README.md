@@ -38,6 +38,7 @@
    [+] Built Flask/FastAPI backends supporting 50+ users across multiple countries
    [+] Led Microsoft Copilot agent development — deployed to 10,000+ employee org
    [+] Complex PL/SQL systems — dashboards, stored procedures, RBAC in production
+   [+] GradePredict — full-stack Flask ML app with Random Forest regression model
    [!] Real OWASP A01 Broken Access Control found in production Oracle APEX app
        CVSS scored | Authorized | Documented | Reported
 
@@ -68,10 +69,34 @@
 
 ---
 
+## Highlights
+
+| | |
+|---|---|
+| **[!] OWASP A01** | Broken Access Control found in production Oracle APEX app- CVSS scored, authorized, documented |
+| **MSc Thesis** | 5G network security & pentesting-based anomaly detection- Raspberry Pi/Arduino @ Aalto University |
+| **Internal Tooling** | Flask/FastAPI REST APIs, N8n automation workflows, Microsoft Copilot agent- production systems serving real users |
+| **Database Engineering** | Complex PL/SQL queries, stored procedures, Oracle DB dashboards with RBAC and email notification systems |
+| **GradePredict** | Full-stack Flask web app- Random Forest regression model predicting student grades from lifestyle & academic factors |
+| **SIEM Home Lab** | Splunk + Wazuh + Elastic Stack- log analysis, threat detection, incident response |
+| **Malware Analysis** | Static & dynamic analysis, YARA rules, VirusTotal, REMnux |
+
+---
+
+## 🚀 Featured Projects
+
+### 🎓 GradePredict — Student Grade Prediction Web App
+![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+
+> Predicts student exam scores from lifestyle and academic factors - study time, health, family dynamics, past failures, and more.
+
+
+---
+
 ## Tech Stack
 
 ### 💻 Software Engineering & Development
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![Bash](https://img.shields.io/badge/bash-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![Bash](https://img.shields.io/badge/bash-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
 
 ### 🗄️ Databases
 ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white) ![Oracle APEX](https://img.shields.io/badge/Oracle%20APEX-F80000?style=for-the-badge&logo=oracle&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/postgresql-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
