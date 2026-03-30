@@ -69,21 +69,7 @@
 
 ---
 
-## Highlights
-
-| | |
-|---|---|
-| **[!] OWASP A01** | Broken Access Control found in production Oracle APEX app- CVSS scored, authorized, documented |
-| **MSc Thesis** | 5G network security & pentesting-based anomaly detection- Raspberry Pi/Arduino @ Aalto University |
-| **Internal Tooling** | Flask/FastAPI REST APIs, N8n automation workflows, Microsoft Copilot agent- production systems serving real users |
-| **Database Engineering** | Complex PL/SQL queries, stored procedures, Oracle DB dashboards with RBAC and email notification systems |
-| **GradePredict** | Full-stack Flask web app- Random Forest regression model predicting student grades from lifestyle & academic factors |
-| **SIEM Home Lab** | Splunk + Wazuh + Elastic Stack- log analysis, threat detection, incident response |
-| **Malware Analysis** | Static & dynamic analysis, YARA rules, VirusTotal, REMnux |
-
----
-
-## 🚀 Featured Projects
+## 🚀 Featured Project
 
 ### 🎓 GradePredict — Student Grade Prediction Web App
 ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
