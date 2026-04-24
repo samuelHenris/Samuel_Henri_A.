@@ -14,7 +14,6 @@
 ┌──(henry㉿kali)-[~]
 └─$ whoami
 
-   Henry-Abiola Samuel
    BSc Software Engineering | MSc Communications & Data Science (Aalto University)
    I build production backends. I understand how they get compromised.
    The best engineers are the ones who know how software breaks
